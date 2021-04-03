@@ -29,3 +29,6 @@ h2{
     margin-top: 10px;
     font-style: bold;
 }
+#description{
+    border: greenyellow solid 2px;
+}
