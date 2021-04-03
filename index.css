@@ -10,7 +10,7 @@ body{
 }
 #image{
     float: left;
-    width: 50%;
+    width: 49%;
     height: 900px;
     border: blue solid 2px;
     background-image: url("/images/me.jpeg");
@@ -21,6 +21,7 @@ body{
     background-color:#282727 ;
     position: absolute;
     box-sizing: border-box;
+    padding: 10px;
 }
 h1{
     text-align: center;
@@ -36,7 +37,11 @@ h2{
 }
 #description{
     border: greenyellow solid 2px;
-    /* width: 50%; */
+    width: 49%;
     height: 900px;
     box-sizing: border-box;
+    background-color:#282727 ;
+    padding: 10px;
+    float: right;
+
 }
