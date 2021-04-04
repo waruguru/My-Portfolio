@@ -43,5 +43,12 @@ h2{
     background-color:#282727 ;
     padding: 10px;
     float: right;
+    margin-top: 10px;
 
+}
+#one{
+    color: white;
+    font-style: bold;
+    text-align: center;
+    margin-top: 1px;
 }
