@@ -101,7 +101,7 @@ h2{
 #b{
     text-align: center;
     margin-top: 20px;
-    border: thistle solid 3px;
+    /* border: thistle solid 3px; */
     width: 850px;
     height: 300px;
     position: absolute;
