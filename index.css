@@ -36,7 +36,7 @@ h2{
     font-style: italic;
 }
 #description{
-    border: greenyellow solid 2px;
+    /* border: greenyellow solid 2px; */
     width: 49%;
     height: 900px;
     box-sizing: border-box;
