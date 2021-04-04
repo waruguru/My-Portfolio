@@ -59,20 +59,37 @@ h2{
     text-align: left;
 }
 #a{
+    text-align: center;
     margin-top: 20px;
     border: thistle solid 3px;
-    width: 97%;
+    width: 850px;
     height: 400px;
-    margin: 10px;
     position: absolute;
     flex-direction: row;
+    display: flex;
     background-position: center;
     justify-content: space-evenly;
 
 }
 .background{
+    border: springgreen solid 2px;
+    width: 425px;
+    height: 100%;
+    text-align: left;
+    color: white;
+    position: relative;
+
+
+    
 
 }
 .interest{
+    border: tomato solid 2px;
+    width: 425px;
+    height: 100%;
+    color: white;
+    position: relative;
+    text-align: left;
+    color: white;
 
 }
