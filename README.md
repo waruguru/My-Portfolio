@@ -1,7 +1,7 @@
-Expected output.
+### Expected output.
 ![This is the output](images/output.png)
 My Portfolio
-#### {Brief description of applicat}, {Date of current version}
+
 #### By 
 Muriithi Joyce
 ## Description
@@ -14,6 +14,6 @@ Languages:HTML and CSS
 incase of any question,concern or idea please feel free to contact me at rachelmuriithi57@gmail.com
 
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+
 Copyright (c) {year} 
 Muriithi Joyce 2021
