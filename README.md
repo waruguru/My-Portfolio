@@ -7,6 +7,10 @@ Muriithi Joyce
 ## Description
 This is a landing page of my portfolio that has my name, my photo,projects I have done, their description and languages I used and their github links alongside them. The page has as well a section about me which entails my background and my hobbies.
 
+### Live Link
+ https://waruguru.github.io/My-Portfolio/. 
+
+
 ## Technologies Used
 Languages:HTML and CSS
 
